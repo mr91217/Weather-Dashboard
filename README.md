@@ -7,6 +7,7 @@
 * HTML
 * CSS
 * JavaScript
+* Open Weather API
 
 ## Screen Shot
 ![](assets/imgs/gif_1625581733.gif)
