@@ -8,6 +8,11 @@
 * CSS
 * JavaScript
 
+## Screen Shot
+![Alt Text](gif_1625581733.gif)
+
+
+
 ## Website
 * https://mr91217.github.io/Weather-Dashboard/
 
