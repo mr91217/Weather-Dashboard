@@ -9,7 +9,7 @@
 * JavaScript
 
 ## Screen Shot
-![Alt Text](gif_1625581733.gif)
+![](assets/imgs/gif_1625581733.gif)
 
 
 
